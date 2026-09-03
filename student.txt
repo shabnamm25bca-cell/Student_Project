@@ -1,6 +1,6 @@
 Name: Shabnam
 Enrollment NO: 253010601023
-Course: BCA
+Course: BCA - Feature Branch
 College Name: Shanti Business School
-Department: Computer Applications 
+Department: Computer Applications
 Semester: 3
